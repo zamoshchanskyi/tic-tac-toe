@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\ASUS\Desktop\Kyrsach2.0\Kyrsach2.0\Kyrsach2.0\Source.cpp(583,25): warning C4244: аргумент: преобразование "LONG" в "Gdiplus::REAL", возможна потеря данных
+C:\Users\ASUS\Desktop\Kyrsach2.0\Kyrsach2.0\Kyrsach2.0\Source.cpp(601,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\Kyrsach2.0\Kyrsach2.0\Kyrsach2.0\Source.cpp(701,23): warning C4244: аргумент: преобразование "TCHAR" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\ASUS\Desktop\Kyrsach2.0\Kyrsach2.0\Kyrsach2.0\Source.cpp(737,24): warning C4244: аргумент: преобразование "TCHAR" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Kyrsach2.0.vcxproj -> C:\Users\ASUS\Desktop\Kyrsach2.0\Kyrsach2.0\Debug\Kyrsach2.0.exe
